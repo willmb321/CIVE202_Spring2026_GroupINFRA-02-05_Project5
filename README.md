@@ -4,9 +4,7 @@ The goal of this project is to analyze natural hazards in the United States, spe
 
 ## Link to the raw data and codes
 ### Raw data 
-[open raw data file ](CIVE202_Spring2026_GroupINFRA-02-05_)
-
-[open raw data file ](CIVE202_Spring2026_GroupINFRA-02-05)
+[open raw data file ](CIVE202_Spring2026_GroupINFRA-02-05_RawData)
 
 ### Python Notebook containing the code
 [open notebook](CIVE202_Spring2026_GroupINFRA-02-05_PythonCode)
@@ -27,3 +25,9 @@ The goal of this project is to analyze natural hazards in the United States, spe
 
 ### Time Sheet
 [open time sheet](CIVE202_Spring2026_GroupINFRA-02-05_TimeSheet)
+
+### Reproducible Methods
+[open reproducible methods](CIVE202_Spring2026_GroupINFRA-02-05_ReproducibleMethods)
+
+### Flow Diagram
+[open flow diagram](CIVE202_Spring2026_GroupINFRA-02-05_FlowDiagram)
