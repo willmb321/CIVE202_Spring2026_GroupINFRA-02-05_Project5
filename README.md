@@ -7,7 +7,7 @@ The goal of this project is to analyze natural hazards in the United States, spe
 [open raw data file ](CIVE202_Spring2026_GroupINFRA-02-05_RawData)
 
 ### Python Notebook containing the code
-[open notebook](CIVE202_Spring2026_GroupINFRA-02-05_PythonCode)
+[open notebook](CIVE202_Spring2026_GroupINFRA-02-05_Python_Code)
 
 ## Analysis of the data
 ### Written Report
